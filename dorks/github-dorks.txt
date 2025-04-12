@@ -1,0 +1,5 @@
+site:github.com in:file AWS_SECRET_ACCESS_KEY
+site:github.com in:file api_key
+site:github.com in:file password language:env
+site:github.com "Authorization: Bearer" extension:js
+site:github.com in:file firebase
